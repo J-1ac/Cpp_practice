@@ -8,7 +8,7 @@ namespace Hybrid{
 }
 
 int main(void){
-    using Hybrid::HybFunc;
+    using Hybrid::HybFunc;          //using을 이용한 이름공간의 명시
     HybFunc();
     return 0;
 }
